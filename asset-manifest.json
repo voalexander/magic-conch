@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/magic-conch/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/magic-conch/static/js/main.b7890f3e.chunk.js",
-    "main.js.map": "/magic-conch/static/js/main.b7890f3e.chunk.js.map",
+    "main.js": "/magic-conch/static/js/main.5ca7fedb.chunk.js",
+    "main.js.map": "/magic-conch/static/js/main.5ca7fedb.chunk.js.map",
     "runtime-main.js": "/magic-conch/static/js/runtime-main.53495b1b.js",
     "runtime-main.js.map": "/magic-conch/static/js/runtime-main.53495b1b.js.map",
     "static/js/2.60618335.chunk.js": "/magic-conch/static/js/2.60618335.chunk.js",
     "static/js/2.60618335.chunk.js.map": "/magic-conch/static/js/2.60618335.chunk.js.map",
     "index.html": "/magic-conch/index.html",
-    "precache-manifest.fcc80e6ce9ce39d7b37be227b41c6b28.js": "/magic-conch/precache-manifest.fcc80e6ce9ce39d7b37be227b41c6b28.js",
+    "precache-manifest.aca2d014118dc3ea9037578f1f2f8412.js": "/magic-conch/precache-manifest.aca2d014118dc3ea9037578f1f2f8412.js",
     "service-worker.js": "/magic-conch/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/magic-conch/static/css/main.435d5fe5.chunk.css.map",
     "static/js/2.60618335.chunk.js.LICENSE.txt": "/magic-conch/static/js/2.60618335.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.53495b1b.js",
     "static/js/2.60618335.chunk.js",
     "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.b7890f3e.chunk.js"
+    "static/js/main.5ca7fedb.chunk.js"
   ]
 }
