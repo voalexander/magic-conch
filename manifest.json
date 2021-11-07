@@ -1,0 +1,13 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "homepage": "https://voalexander.github.io/magic-conch",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
